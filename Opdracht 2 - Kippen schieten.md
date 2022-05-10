@@ -49,7 +49,7 @@ En verander van het Label de Name property (rechts onderin bij Properties) naar 
 > Klik in hetzelfde scherm op het bliksemschicht icoontje. Voer hier bij het Event **timer1_Tick** en druk op enter. Je komt dan in het codescherm terecht, waar we de volgende code in gaan vullen:
 
 ```csharp
-int speed = 4;**
+int speed = 4;
 
 private void timer1_Tick(object sender, EventArgs e)
 {
