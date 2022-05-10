@@ -2,7 +2,7 @@
 
 In deze opdracht gaan we een eenvoudige rekenmachine ontwikkelen met C#.
 
-1.  De eerste stap is het maken van een nieuw project. Open hiervoor Visual Studio 2017, als deze niet al is geopend. Maak een nieuw project aan door te klikken op File \> New \> Project.
+1.  De eerste stap is het maken van een nieuw project. Open hiervoor Visual Studio 2019, als deze niet al is geopend. Maak een nieuw project aan door te klikken op File \> New \> Project.
 
 ![](images/rekenmachine1.png)
 
