@@ -69,7 +69,7 @@ private void timer1_Tick(object sender, EventArgs e)
 {
   chickenPicture.Left = chickenPicture.Left - speed;
 
-  if(chickenPicture.Left \< 0 - chickenPicture.Width)
+  if(chickenPicture.Left < 0 - chickenPicture.Width)
   {
       ResetKip();
   }
